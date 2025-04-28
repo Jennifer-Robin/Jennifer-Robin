@@ -3,7 +3,7 @@
 
 <div align="center">
 <!-- Hackathon Winner Group Photo -->
-<img src="https://raw.githubusercontent.com/Jennifer-Robin/README.md/main/Screenshot%202025-04-28%20at%209.31.12%20PM.png" alt="Hackathon Winners March 2025" width="500"/>
+<img src="https://raw.githubusercontent.com/Jennifer-Robin/README.md/main/'/Users/jennifer/Desktop/Screenshot 2025-04-28 at 9.31.12 PM.png'" alt="Hackathon Winners March 2025" width="500"/>
 </div>
 
 <br/>
