@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arul Jennifer</h1>
 
-<div align="center">
-<!-- Hackathon Winner Group Photo -->
-<img src="https://raw.githubusercontent.com/Jennifer-Robin/README.md/main/'/Users/jennifer/Desktop/hackathon_winner_march2025.png" alt="Hackathon Winners March 2025" width="500"/>
-</div>
-
-<br/>
 
 <div align="center">
 <!-- Hackathon Winner Certificate (Clickable Link) -->
