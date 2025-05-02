@@ -1,24 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Arul Jennifer</h1>
 
-
-<div align="center">
-<!-- Hackathon Winner Certificate (Clickable Link) -->
-🏆 View Hackathon Winner Certificate
-</a>
-</div>
-
 <h3 align="center">Data Science Enthusiast | Unlocking Insights from Data | Based in India</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Jennifer-Robin&label=Profile%20views&color=0e75b6&style=flat" alt="Jennifer-Robin" /> 
 </p>
 
-<p align="left"> 
-<a href="https://github-profile-trophy.vercel.app/?username=Jennifer-Robin">
-<img src="https://github-profile-trophy.vercel.app/?username=Jennifer-Robin" alt="Jennifer-Robin" />
-</a> 
-</p>
 <img src="images/hackathon_winner_march2025.png" alt="Jennifer-Robin" width="500"/>
 - 🏆 I recently secured **3rd Place** in **Imarticus Hackathon** (Data Science Challenge)
 
