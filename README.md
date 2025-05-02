@@ -20,6 +20,8 @@
 
 - 📫 How to reach me: *aruljennifer2000@gmail.com*
 
+- 👨‍💻 All of my projects are available at [https://aruljennifer2000.wixsite.com/my-site-6](https://aruljennifer2000.wixsite.com/my-site-6)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jenniferjohn04/" target="blank">
