@@ -20,7 +20,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Jennifer-Robin" alt="Jennifer-Robin" />
 </a> 
 </p>
-
+<img src="/Users/jennifer/Desktop/hackathon_winner_march2025.png" alt="Jennifer-Robin" />
 - 🏆 I recently secured **3rd Place** in **Imarticus Hackathon** (Data Science Challenge)
 
 - 🔭 I’m currently working on *Data Analysis and Machine Learning Projects*
