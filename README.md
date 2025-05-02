@@ -3,10 +3,6 @@
 
 <h3 align="center">Data Science Enthusiast | Unlocking Insights from Data | Based in India</h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Jennifer-Robin&label=Profile%20views&color=0e75b6&style=flat" alt="Jennifer-Robin" /> 
-</p>
-
 <p align="center"> 
 <img src="images/hackathon_winner_march2025.png" alt="Jennifer-Robin" width="500"/>
 </p>
