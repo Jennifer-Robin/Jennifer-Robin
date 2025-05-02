@@ -4,7 +4,6 @@
 
 <div align="center">
 <!-- Hackathon Winner Certificate (Clickable Link) -->
-<a href="https://media.licdn.com/dms/document/media/v2/D4D1FAQG2wCJ4HrNo8A/feedshare-document-pdf-analyzed/B4DZZwonR3GcAY-/0/1745646429806?e=1746662400&v=beta&t=iv4ge-uBw1GGys6d-HNY00xmluL5Elfz5CmAApfMNjo">
 🏆 View Hackathon Winner Certificate
 </a>
 </div>
