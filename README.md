@@ -6,7 +6,7 @@
 <p align="center"> 
 <img src="images/hackathon_winner_march2025.png" alt="Jennifer-Robin" width="500"/>
 </p>
-- 🏆 I recently secured **3rd Place** in **Imarticus Hackathon** (Data Science Challenge)
+- 🏆 I recently secured **3rd Place in Imarticus Hackathon** (Data Science Challenge)
 
 - 🔭 I’m currently working on *Data Analysis and Machine Learning Projects*
 
